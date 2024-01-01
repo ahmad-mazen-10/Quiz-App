@@ -1,0 +1,120 @@
+[
+  {
+    "question"  : "What does JSON stand for?",
+    "answer_1" :"JavaScript Object Notation",
+    "answer_2" : "Java Script Object Notation",
+    "answer_3" :"JavaScript Object Naming",
+    "answer_4" :"JavaScript Object Navigation",
+  
+    "correctAnswer": 0
+  },
+
+
+  {
+    "question": "Which of the following is the correct way to declare a variable in JavaScript?",
+
+      "answer_1" : "var name = 'John';",
+      "answer_2" : "let name = 'John';",
+      "answer_3" : "const name = 'John';",
+      "answer_4" : "all of the above",
+
+    "correctAnswer": 3
+  },
+
+
+  {
+    "question": "What is the purpose of the DOM in web development?",
+
+      "answer_1" :"Document Object Model",
+      "answer_2" :"Dynamic Object Manipulation",
+      "answer_3" :"Data-Oriented Markup",
+      "answer_4" :"Document Object Mapping",
+
+    "correctAnswer": 0
+  },
+
+
+  {
+    "question": "How do you add an event listener to an element in JavaScript?",
+
+       "answer_1" : "element.addEventListener('click', function() { ... });",
+       "answer_2" : "element.onClick = function() { ... };",
+       "answer_3" : "element.click = function() { ... };",
+       "answer_4" : "element.on('click', function() { ... });",
+
+    "correctAnswer": 0
+  },
+
+
+  {
+    "question": "What is the difference between an ID selector and a class selector in CSS?",
+
+      "answer_1" :"An ID selector can only be used once per page, while a class selector can be used multiple times.",
+      "answer_2" :"An ID selector is more specific than a class selector.",
+      "answer_3" :"Both of the above",
+      "answer_4" :"None of the above",
+
+    "correctAnswer": 2
+  },
+
+
+  {
+    "question": "Which CSS property is used to set the background color of an element?",
+
+       "answer_1" :"color",
+       "answer_2" :"backgroundColor",
+       "answer_3" :"background-color",
+       "answer_4" :"bgColor",
+
+    "correctAnswer": 2
+  },
+
+
+  {
+    "question": "What is the purpose of the CSS box model?",
+
+      "answer_1" : "To define the layout and spacing of elements on a web page.",
+      "answer_2" : "To create boxes around elements for visual styling.",
+      "answer_3" : "To manage the content, padding, border, and margin of elements.",
+      "answer_4" : "All of the above",
+
+    "correctAnswer": 3
+  },
+
+
+  {
+    "question": "How do you create a hyperlink in HTML?",
+
+       "answer_1" : "<a href=\"https://www.example.com\">Link Text</a>",
+       "answer_2" : "<link href=\"https://www.example.com\">",
+       "answer_3" : "<href src=\"https://www.example.com\">Link Text</href>",
+       "answer_4" : "<hyperlink src=\"https://www.example.com\">Link Text</hyperlink>",
+
+    "correctAnswer": 0
+  },
+
+
+  {
+    "question": "What is the difference between inline and external CSS?",
+
+       "answer_1" : "Inline CSS is applied directly to HTML elements, while external CSS is stored in a separate file.",
+       "answer_2" : "Inline CSS has higher priority than external CSS.",
+       "answer_3" : "Both of the above",
+       "answer_4" : "None of the above",
+
+    "correctAnswer": 3
+  },
+
+
+  {
+    "question": "What is the purpose of the src attribute in an img tag?",
+
+       "answer_1" : "To specify the height of the image.",
+       "answer_2" : "To specify the width of the image.",
+       "answer_3" : "To specify the alternative text for the image.",
+       "answer_4" : "To specify the source (URL) of the image.",
+
+    "correctAnswer": 3
+  }
+  
+]
